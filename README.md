@@ -1,0 +1,1 @@
+This is a <h1>sample website</h1> for the Learn Enough HTML to Be Dangerous.
